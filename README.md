@@ -1,3 +1,7 @@
+# GOVUK-NextJS-Accordions
+
+A working exmaple of NextJS application integrated with GOV.UK Frontend library. Example is modified from this [documentation](https://frontend.design-system.service.gov.uk/get-started/#get-started) from GOV.UK website. GOV.UK is a design system used for UK Government related webpages.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
